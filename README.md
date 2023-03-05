@@ -1,2 +1,2 @@
-# eski_google
-CSS ÖDEV-2
+# Eski_Google
+## CSS ÖDEV-2
